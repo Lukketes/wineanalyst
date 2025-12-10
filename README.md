@@ -203,7 +203,7 @@ Lista vinhos com maior score (pontos/preço), filtrados por:
 ## 👤 Autor
 
 **Lucas Santos Freitas**
-- GitHub: [[@Lukketes](github.com/Lukketes)
+- GitHub: [@Lukketes](github.com/Lukketes)
 - LinkedIn: [Lucas Freitas](https://linkedin.com/in/lucas-freitas-592180329/)
 
 🍷 **Happy Wine Analysis!**
